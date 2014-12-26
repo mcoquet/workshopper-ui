@@ -1,4 +1,20 @@
 {
   "name": "workshopper-ui",
-  "main": "index.html"
+  "version": "1.0.0",
+  "description": "workshopper-ui ==============",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "/Applications/node-webkit-v0.11.2-osx-x64/node-webkit.app/Contents/MacOS/node-webkit ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcoquet/workshopper-ui.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcoquet/workshopper-ui/issues"
+  },
+  "homepage": "https://github.com/mcoquet/workshopper-ui"
 }
